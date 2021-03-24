@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/ModeloLogic/MedicoLogic.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/ModeloLogic/PacienteLogic.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/medico/editarMedico.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/medico/listaMedico.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/cita/agregarCita.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/index.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/paciente/listaPacientes.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/paciente/agregarPaciente.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Controlador/ControladorMedico.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Interfaces/CrudMedico.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/ModeloLogic/CitaLogic.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/cita/editarCita.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Modelo/Medico.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/paciente/editarPaciente.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Modelo/Cita.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/medico/listaMedicos.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Controlador/ControladorCita.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Config/Conexion.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/cita/listaCitas.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Interfaces/CrudPaciente.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Modelo/Paciente.java</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/web/vistas/medico/agregarMedico.jsp</file>
+            <file>file:/C:/Users/santi/OneDrive/Documents/NetBeansProjects/CitasRealFinal/src/java/Interfaces/CrudCita.java</file>
+        </group>
+    </open-files>
+</project-private>
